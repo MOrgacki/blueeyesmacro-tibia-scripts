@@ -5,3 +5,9 @@ Tibia is 2D MMORPG and one of the oldest MMORPGs. Repositorium consists a few sc
 Macro bases on pixel recgonization. 
 The resolution is set to 1600x900.
 It is not detectable.
+
+# Usage
+To use the scrips:
+1. Open Blue Eye Macro.
+2. Choose Import from main menu bar.
+3. Select a script you want to import.
