@@ -14,20 +14,22 @@ To use the scrips:
 
 # Scripts explanation
 
-1. Game 
+1. "Game"
+This directory consists of scripts which automate: basic gaming.
 
-- gra;bicie.bem	
-- gra;goń.bem	
-- gra;jeden.bem	
-- gra;leczenie.bem	
-- gra;obszar.bem	
-- gra;randomowe leczenie.bem	
-- gra;stoporstart.bem	
-- gra;stuck.bem	first
-- gra;xidzier2.bem	-> Main 
-- gra;zryj.bem
+- gra;bicie.bem	     =====> Auto Attacker
+- gra;goń.bem	       =====> Auto follow
+- gra;jeden.bem	     =====> Single attacking spell usage
+- gra;leczenie.bem	 =====> Healing
+- gra;obszar.bem	   =====> Area attacking spell usage
+- gra;randomowe leczenie.bem	=====> Randomized healing 
+- gra;stoporstart.bem	=====> Used to switch between walking and attacking
+- gra;stuck.bem	     =====> Moves if gets blocked
+- gra;xidzier2.bem	 =====>  Auto walker
+- gra;zryj.bem       =====>  Auto Eater
 
-2. Looting
+2. "Looting"
+This directory consists of scripts which automate: looting from monsters.
 
 - lootowanie;1.bem	
 - lootowanie;2.bem
@@ -38,7 +40,9 @@ To use the scrips:
 - lootowanie;7.bem
 - lootowanie;8.bem
 
-3. Lucky Charms TASK
+3. "Lucky Charms TASK"
+This directory consists of scripts which automate: Mission 1 of Rottin's Wood Quest - this is repetable task.
+https://tibia.fandom.com/wiki/Rottin_Wood_and_the_Married_Men_Quest/Spoiler
 
 - horny;atak.bem
 - horny;atakowanie_stop.bem
