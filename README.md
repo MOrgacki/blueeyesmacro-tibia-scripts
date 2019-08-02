@@ -15,6 +15,7 @@ To use the scrips:
 # Scripts explanation
 
 1. "Game"
+
 This directory consists of scripts which automate: basic gaming.
 
 - gra;bicie.bem	     =====> Auto Attacker
@@ -29,6 +30,7 @@ This directory consists of scripts which automate: basic gaming.
 - gra;zryj.bem       =====>  Auto Eater
 
 2. "Looting"
+
 This directory consists of scripts which automate: looting from monsters.
 
 - lootowanie;1.bem	
@@ -41,6 +43,7 @@ This directory consists of scripts which automate: looting from monsters.
 - lootowanie;8.bem
 
 3. "Lucky Charms TASK"
+
 This directory consists of scripts which automate: Mission 1 of Rottin's Wood Quest - this is repetable task.
 https://tibia.fandom.com/wiki/Rottin_Wood_and_the_Married_Men_Quest/Spoiler
 
