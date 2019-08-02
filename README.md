@@ -3,7 +3,7 @@ Tibia is 2D MMORPG and one of the oldest MMORPGs. Repositorium consists a few sc
 
 # Notes
 Macro's base on pixel recgonization. 
-The resolution is set to 1600x900.
+Scripts were made with adjustment to 1920x1080.
 Currently it is not detectable by BattleEye protection.
 
 # Usage
