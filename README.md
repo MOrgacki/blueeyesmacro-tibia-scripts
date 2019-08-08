@@ -2,7 +2,7 @@
 Tibia is 2D MMORPG and one of the oldest MMORPGs. Repositorium consists of a few scripts made in Blue Eye Macro to automate some tasks in the game.
 
 # Notes
-Macro's base on pixel recognization. 
+Macros base on pixel recognization. 
 Scripts were made with adjustment to 1920x1080 resolution.
 Currently, it is not detectable by BattleEye protection system.
 
@@ -16,7 +16,7 @@ To use the scrips:
 
 1. "Game"
 
-This directory consists of scripts which automate: basic gaming.
+This directory consists of scripts which automate: basic game functionalities.
 
 - gra;bicie.bem	     =====> Auto Attacker
 - gra;goń.bem	       =====> Auto follow
