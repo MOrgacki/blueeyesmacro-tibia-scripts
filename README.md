@@ -55,3 +55,5 @@ https://tibia.fandom.com/wiki/Rottin_Wood_and_the_Married_Men_Quest/Spoiler
 - horny;part4.bem
 - horny;skinowanie.bem
 - horny;zmiana.bem
+---
+# Lessons learned: Blue Eyes Macro DSL, Automation Mindset 
